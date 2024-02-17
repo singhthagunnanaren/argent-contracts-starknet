@@ -6,13 +6,13 @@ See [Argent Account](src/account/README.md) and [Argent Multisig](src/multisig/R
 
 ## Development
 
-### Setup Rust
+### Setup Rust:
 
 Please refer to [these instructions](https://docs.cairo-lang.org/getting_started/prerequisits.html).  
 You can skip cloning the Cairo repository, as this will be done automatically through the Makefile.  
 If you are a developer, we recommend that you install the Cairo extension. You can find it in the vscode Extensions Marketplace by looking for "Cairo 1.0".
 
-### Setup scarb
+### Setup scarb:
 
 Refer to this documentation: https://docs.swmansion.com/scarb/download.html#install-via-asdf  
 Thanks to the [.tool-versions file](./.tool-versions), you don't need to install a specific scarb version. The correct one will be automatically downloaded and installed.
